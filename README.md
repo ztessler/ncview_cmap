@@ -12,6 +12,6 @@ Should run in python 2 or 3.  Several generated colormaps are in the cmap direct
 ### Usage
 
 ```bash
-python ./ncview_cmap.py viridis > viridis.cmap
-python ./ncview_cmap.py -b viridis > viridis_bands.cmap
+python ./ncview_cmap.py viridis > viridis.ncmap
+python ./ncview_cmap.py -b viridis > viridis_bands.ncmap
 ```
